@@ -1,2 +1,3 @@
-# docs
-Documentation for Cash2
+# cash2-docs-website
+
+Website containing documentation for Cash2
