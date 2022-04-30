@@ -1,200 +1,206 @@
 a
 {
-	color: blue !important;
-	text-decoration: none;
+  color: blue !important;
+  text-decoration: none;
 }
 
 a:hover
 {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 body
 {
-	background: #f8f8f8;
-	font-family: sans-serif;
+  background: #f8f8f8;
+  font-family: sans-serif;
 }
 
 code
 {
-	font-size: 17px;
-	background: #e5e5e5;
-	border-radius: 5px;
-	padding-left: 10px;
-	padding-right: 10px;
-	color: #f00000;
-	word-break: break-word;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
+  font-size: 17px;
+  background: #e5e5e5;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #f00000;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 h1
 {
-	font-size: 50px;
+  font-size: 50px;
 }
 
 h2
 {
-	font-size: 33px;
-	text-align: center;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
-	background: #eaeaea;
-	border-radius: 25px;
+  font-size: 33px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  background: #eaeaea;
+  border-radius: 25px;
 }
 
 h3
 {
-	font-size: 27px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
-	word-break: break-word;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
+  font-size: 27px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 ul, li
 {
-	font-size: 20px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	margin-right: 0px;
-	padding-top: 3px;
-	padding-bottom: 3px;
-	word-break: break-word;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
+  font-size: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 p
 {
-	font-size: 20px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
+  font-size: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
 pre
 {
-	font-size: 17px;
-	background: #e5e5e5;
-	border-radius: 10px;
-	color: #f00000;
-	overflow-x: auto;
-	width: 90%;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
+  font-size: 17px;
+  background: #e5e5e5;
+  border-radius: 10px;
+  color: #f00000;
+  overflow-x: auto;
+  width: 90%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
 }
 
 span
 {
-	font-size: 20px;
-	word-break: break-word;
-	word-wrap: break-word;
-	overflow-wrap: break-word;
+  font-size: 20px;
+  word-break: break-word;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
-#cash2
+#cash2Logo
 {
-	margin-top: 0px;
-	margin-bottom: 0px;
-	margin-right: 0px;
-	margin-left: 0px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
+ height: 3rem;
+}
+
+#cash2Text
+{
+  height: 50px;
+}
+
+#cash2TextDiv
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 #documentation
 {
-	display: inline-block;
-	margin-top: 10px;
+  display: inline-block;
+  margin-top: 10px;
 }
 
 #headerDiv
 {
-	margin-top: 35px;
-	text-align: center;
+  margin-top: 35px;
+  text-align: center;
 }
 
 #logo
 {
-	height: 35px;
-	line-height: 35px;
-	display: inline-block;
-	font-size: 18px;
+  height: 35px;
+  line-height: 35px;
+  display: inline-block;
+  font-size: 18px;
 }
 
 .bold
 {
-	font-weight: bold;
+  font-weight: bold;
 }
 
 .font14
 {
-	font-size: 14px;
+  font-size: 14px;
 }
 
 .font20
 {
-	font-size: 20px;
+  font-size: 20px;
 }
 
 .font50
 {
-	font-size: 50px;
+  font-size: 50px;
 }
-		 
+
 .green
 {
-	color:#00b030;
+  color:#00b030;
 }
 
 .monospace
 {
-	font-family: monospace;
+  font-family: monospace;
 }
 
 .no-bold
 {
-	font-weight: normal;
+  font-weight: normal;
 }
 
 .red
 {
-	color: #f00000;
+  color: #f00000;
 }
 
 .serif
 {
-	font-family: serif;
+  font-family: serif;
 }
 
 .text-center
 {
-	text-align: center;
+  text-align: center;
 }
 
 .underline
 {
-	text-decoration: underline;
+  text-decoration: underline;
 }
